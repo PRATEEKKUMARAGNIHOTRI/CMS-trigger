@@ -10,3 +10,4 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Standardization to Angle theta and Angle phi<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Linear scaling between zero and one to Bending angles, Pattern Straigntness<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Filling Empty/Missing values with zeroes
++ **Validation and Out of Fold Predictions** - 10 even-random-splits of data | 8 for training | 1 for validation | 1 for out-of-fold-predictions
