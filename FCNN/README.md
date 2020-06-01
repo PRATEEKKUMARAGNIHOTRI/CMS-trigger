@@ -1,7 +1,7 @@
 # Fully Connected Neural Network
 
 ## Architecture
-![Architecture](https://github.com/PRATEEKKUMARAGNIHOTRI/CMS-trigger/blob/master/images/FCNN%20architecture.PNG) | ![Validation](https://github.com/PRATEEKKUMARAGNIHOTRI/CMS-trigger/blob/master/images/validation_scheme.png)
+![Architecture](https://github.com/PRATEEKKUMARAGNIHOTRI/CMS-trigger/blob/master/images/FCNN%20architecture.PNG) | ![Validation](https://github.com/PRATEEKKUMARAGNIHOTRI/CMS-trigger/blob/master/images/validation-scheme-1.png)
 --- | --- 
 Model Architecture | Validation scheme
 
