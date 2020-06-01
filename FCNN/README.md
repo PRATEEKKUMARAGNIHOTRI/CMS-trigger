@@ -25,3 +25,5 @@ Classification Report (Regression Head) | ![Classification Report LightGBM](http
 <p align="center">
   <img src="https://github.com/PRATEEKKUMARAGNIHOTRI/CMS-trigger/blob/master/images/FCNN%20classification%20report%20classification%20head%20batchnorm.PNG">
 </p>
+
+### Comparision - Rate and Efficiency
