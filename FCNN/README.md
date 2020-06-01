@@ -21,3 +21,6 @@ Classification Report | ![Classification Report LightGBM](https://github.com/PRA
 
 #### Classification Report FCNN - classification head
 ![Classification Report FCNN - classification head](https://github.com/PRATEEKKUMARAGNIHOTRI/CMS-trigger/blob/master/images/FCNN%20classification%20report%20classification%20head%20batchnorm.PNG)
+<p align="center">
+  <img width="600" height="200" src="https://github.com/PRATEEKKUMARAGNIHOTRI/CMS-trigger/blob/master/images/FCNN%20classification%20report%20classification%20head%20batchnorm.PNG">
+</p>
