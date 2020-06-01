@@ -18,3 +18,6 @@
 Learned Distribution | ![LightGBM dist](https://github.com/PRATEEKKUMARAGNIHOTRI/CMS-trigger/blob/master/images/dist-LightGBM.png) | ![FCNN dist](https://github.com/PRATEEKKUMARAGNIHOTRI/CMS-trigger/blob/master/images/dist-batchnorm.png)
 --- | --- | ---
 Classification Report | ![Classification Report LightGBM](https://github.com/PRATEEKKUMARAGNIHOTRI/CMS-trigger/blob/master/images/LightGBM%20classification%20Report.PNG) | ![Classification Report FCNN](https://github.com/PRATEEKKUMARAGNIHOTRI/CMS-trigger/blob/master/images/FCNN%20classification%20report%20regression%20head%20dropout.PNG)
+
+#### Classification Report FCNN - classification head
+![Classification Report FCNN - classification head](https://github.com/PRATEEKKUMARAGNIHOTRI/CMS-trigger/blob/master/images/FCNN%20classification%20report%20classification%20head%20batchnorm.PNG)
