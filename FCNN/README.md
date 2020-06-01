@@ -1,7 +1,9 @@
 # Fully Connected Neural Network
 
 ## Model Architecture
-![Architecture](https://github.com/PRATEEKKUMARAGNIHOTRI/CMS-trigger/blob/master/images/FCNN%20architecture.PNG)
+<p align="center">
+  <img src="https://github.com/PRATEEKKUMARAGNIHOTRI/CMS-trigger/blob/master/images/FCNN%20architecture.PNG">
+</p>
 
 + **Input features** - Angle theta, Angle phi, and Mask
 + **Outputs** - 1/pT, Bending angles, Pattern Straigntness, and Binary Classification ( i.e. >25 GeV or <25 GeV)
@@ -20,7 +22,6 @@ Learned Distribution | ![LightGBM dist](https://github.com/PRATEEKKUMARAGNIHOTRI
 Classification Report | ![Classification Report LightGBM](https://github.com/PRATEEKKUMARAGNIHOTRI/CMS-trigger/blob/master/images/LightGBM%20classification%20Report.PNG) | ![Classification Report FCNN](https://github.com/PRATEEKKUMARAGNIHOTRI/CMS-trigger/blob/master/images/FCNN%20classification%20report%20regression%20head%20dropout.PNG)
 
 #### Classification Report FCNN - classification head
-![Classification Report FCNN - classification head](https://github.com/PRATEEKKUMARAGNIHOTRI/CMS-trigger/blob/master/images/FCNN%20classification%20report%20classification%20head%20batchnorm.PNG)
 <p align="center">
-  <img width="600" height="200" src="https://github.com/PRATEEKKUMARAGNIHOTRI/CMS-trigger/blob/master/images/FCNN%20classification%20report%20classification%20head%20batchnorm.PNG">
+  <img src="https://github.com/PRATEEKKUMARAGNIHOTRI/CMS-trigger/blob/master/images/FCNN%20classification%20report%20classification%20head%20batchnorm.PNG">
 </p>
