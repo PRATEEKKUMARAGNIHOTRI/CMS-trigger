@@ -17,6 +17,7 @@
   <img width="600" height="200" src="https://github.com/PRATEEKKUMARAGNIHOTRI/CMS-trigger/blob/master/images/validation_scheme.png">
 </p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](https://github.com/PRATEEKKUMARAGNIHOTRI/CMS-trigger/blob/master/images/validation_scheme.png)
+<br>
 + **Projections of Hyperparameter Space (constructed during Bayesian HyperParameter Search) onto various axes -**
 <p align="right">
   <img src="https://github.com/PRATEEKKUMARAGNIHOTRI/CMS-trigger/blob/master/images/LightGBM-SearchSpace-Projections.png">
