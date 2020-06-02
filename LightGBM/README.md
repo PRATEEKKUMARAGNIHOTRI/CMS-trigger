@@ -23,3 +23,9 @@
 <p align="right">
   <img src="https://github.com/PRATEEKKUMARAGNIHOTRI/CMS-trigger/blob/master/images/LightGBM-SearchSpace-Projections.png">
 </p>
+
++ **Results -**
+
+True 1/pT distribution | Predicted 1/pT distribution | Rate and Efficiency(pT>25GeV)
+--- | --- | ---
+![True Dist](https://github.com/PRATEEKKUMARAGNIHOTRI/CMS-trigger/blob/master/images/dist-True.png) | ![Predicted Dist](https://github.com/PRATEEKKUMARAGNIHOTRI/CMS-trigger/blob/master/images/dist-LightGBM.png) | ![Rate and Efficiency](https://github.com/PRATEEKKUMARAGNIHOTRI/CMS-trigger/blob/master/images/LightGBM-Rate-Efficiency.png)
