@@ -12,11 +12,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Lambda 2 : 0.4093734644841744<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Feature fraction : 0.7657601467713301<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Early Stopping : 76
-
-## Bayesian Hyperparameter Optimization
-<p align="center">
++ **Projection of Hyperparameter Space (Constructed during Bayesian HyperParameter Search) onto various axes - **
+<p align="right">
   <img src="https://github.com/PRATEEKKUMARAGNIHOTRI/CMS-trigger/blob/master/images/LightGBM-SearchSpace-Projections.png">
-</p>
-<p align="center">
-  Projection of Hyperparameter Space onto various axes
 </p>
