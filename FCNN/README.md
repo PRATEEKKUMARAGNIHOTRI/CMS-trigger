@@ -15,13 +15,20 @@
 + **Validation and Out of Fold Predictions** - 10 even-random-splits of data | 8 for training | 1 for validation | 1 for out-of-fold-predictions | [(detailed image)](https://github.com/PRATEEKKUMARAGNIHOTRI/CMS-trigger/blob/master/images/validation_scheme.png)
 
 ## Results and Comparision
-. | LightGBM | FCNN
---- | --- | ---
-Learned Distribution | ![LightGBM dist](https://github.com/PRATEEKKUMARAGNIHOTRI/CMS-trigger/blob/master/images/dist-LightGBM.png) | ![FCNN dist](https://github.com/PRATEEKKUMARAGNIHOTRI/CMS-trigger/blob/master/images/dist-batchnorm.png)
---- | --- | ---
-Classification Report (Regression Head) | ![Classification Report LightGBM](https://github.com/PRATEEKKUMARAGNIHOTRI/CMS-trigger/blob/master/images/LightGBM%20classification%20Report.PNG) | ![Classification Report FCNN](https://github.com/PRATEEKKUMARAGNIHOTRI/CMS-trigger/blob/master/images/FCNN%20classification%20report%20regression%20head%20dropout.PNG)
 
-### Classification Report FCNN - classification head
++ **1/pT Distribution**
+
+True | LightGBM | FCNN
+--- | --- | ---
+![True dist](https://github.com/PRATEEKKUMARAGNIHOTRI/CMS-trigger/raw/master/images/dist-True.png) | ![LightGBM dist](https://github.com/PRATEEKKUMARAGNIHOTRI/CMS-trigger/blob/master/images/dist-LightGBM.png) | ![FCNN dist](https://github.com/PRATEEKKUMARAGNIHOTRI/CMS-trigger/blob/master/images/dist-batchnorm.png)
+
++ **Classification Report - Regression Head**
+
+LightGBM | FCNN
+--- | ---
+![Classification Report LightGBM](https://github.com/PRATEEKKUMARAGNIHOTRI/CMS-trigger/blob/master/images/LightGBM%20classification%20Report.PNG) | ![Classification Report FCNN](https://github.com/PRATEEKKUMARAGNIHOTRI/CMS-trigger/blob/master/images/FCNN%20classification%20report%20regression%20head%20dropout.PNG)
+
++ **Classification Report FCNN - Classification Head**
 <p align="center">
   <img src="https://github.com/PRATEEKKUMARAGNIHOTRI/CMS-trigger/blob/master/images/FCNN%20classification%20report%20classification%20head%20batchnorm.PNG">
 </p>
