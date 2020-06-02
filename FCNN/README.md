@@ -34,6 +34,6 @@ LightGBM | FCNN
 </p>
 
 ### Comparision - Rate and Efficiency
-Rate Ratio | Efficiencies for pT>25 GeV
+Rate Ratio ( FCNN/LightGBM ) | Efficiency ( pT>25 GeV )
 --- | ---
-![Rate Ratio](https://github.com/PRATEEKKUMARAGNIHOTRI/CMS-trigger/blob/master/images/Rate%20ratio%20FCNN-LightGBM.png) | ![Efficiencies](https://github.com/PRATEEKKUMARAGNIHOTRI/CMS-trigger/blob/master/images/Efficiency-LightGBM-FCNN.png)
+![Rate Ratio ( FCNN/LightGBM) ](https://github.com/PRATEEKKUMARAGNIHOTRI/CMS-trigger/blob/master/images/Rate%20ratio%20FCNN-LightGBM.png) | ![Efficiencies](https://github.com/PRATEEKKUMARAGNIHOTRI/CMS-trigger/blob/master/images/Efficiency-LightGBM-FCNN.png)
