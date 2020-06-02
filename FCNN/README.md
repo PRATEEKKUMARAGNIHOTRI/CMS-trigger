@@ -27,3 +27,6 @@ Classification Report (Regression Head) | ![Classification Report LightGBM](http
 </p>
 
 ### Comparision - Rate and Efficiency
+Rate Ratio | Efficiencies
+--- | ---
+![Rate Ratio](https://github.com/PRATEEKKUMARAGNIHOTRI/CMS-trigger/blob/master/images/Rate%20ratio%20FCNN-LightGBM.png) | ![Efficiencies](https://github.com/PRATEEKKUMARAGNIHOTRI/CMS-trigger/blob/master/images/Efficiency-LightGBM-FCNN.png)
