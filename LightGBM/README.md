@@ -12,6 +12,13 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Lambda 2 : 0.4093734644841744<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Feature fraction : 0.7657601467713301<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Early Stopping : 76
+
++ **Results -**
+
+True 1/pT distribution | Predicted 1/pT distribution | Rate and Efficiency(pT>25GeV)
+--- | --- | ---
+![True Dist](https://github.com/PRATEEKKUMARAGNIHOTRI/CMS-trigger/blob/master/images/dist-True.png) | ![Predicted Dist](https://github.com/PRATEEKKUMARAGNIHOTRI/CMS-trigger/blob/master/images/dist-LightGBM.png) | ![Rate and Efficiency](https://github.com/PRATEEKKUMARAGNIHOTRI/CMS-trigger/blob/master/images/LightGBM-Rate-Efficiency.png)
+
 + **Validation and Out-of-Fold Prediction generation Scheme -**
 <p align="center">
   <img src="https://github.com/PRATEEKKUMARAGNIHOTRI/CMS-trigger/blob/master/images/validation_scheme.png">
