@@ -3,7 +3,7 @@
 + **Output -** 1/pT
 + **Loss -** MSE
 + **HyperParameters optimized -** Learning Rate, Bagging fraction, Min child Sample, Max Depth, Lambda 1, Lambda 2, Feature fraction and Early Stopping Rounds
-+ **Obtained Optimized Values -** 
++ **Obtained Optimized Values -** <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Learning Rate :  0.27622648017994983<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Bagging fraction : 0.6652163201643659<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Min child Sample : 98<br>
