@@ -25,6 +25,7 @@ True | LightGBM | FCNN
 + **Classification Report - Regression Head**
 
 LightGBM | FCNN
+--- | ---
 ![Classification Report LightGBM](https://github.com/PRATEEKKUMARAGNIHOTRI/CMS-trigger/blob/master/images/LightGBM%20classification%20Report.PNG) | ![Classification Report FCNN](https://github.com/PRATEEKKUMARAGNIHOTRI/CMS-trigger/blob/master/images/FCNN%20classification%20report%20regression%20head%20dropout.PNG)
 
 + **Classification Report FCNN - Classification Head**
