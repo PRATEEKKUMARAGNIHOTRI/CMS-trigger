@@ -13,8 +13,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Feature fraction : 0.7657601467713301<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Early Stopping : 76
 + **Validation and Out-of-Fold Prediction generation Scheme -**
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Img](https://github.com/PRATEEKKUMARAGNIHOTRI/CMS-trigger/blob/master/images/validation_scheme.png)
-<br>
+<p align="center">
+  <img src="https://github.com/PRATEEKKUMARAGNIHOTRI/CMS-trigger/blob/master/images/validation_scheme.png">
+</p>
+<p align="center">10 even-random-splits of data | 8 for training | 1 for validation | 1 for out-of-fold-predictions</p>
 + **Projections of Hyperparameter Space (constructed during Bayesian HyperParameter Search) onto various axes -**
 <p align="right">
   <img src="https://github.com/PRATEEKKUMARAGNIHOTRI/CMS-trigger/blob/master/images/LightGBM-SearchSpace-Projections.png">
