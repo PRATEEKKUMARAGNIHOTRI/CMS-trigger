@@ -12,7 +12,11 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Lambda 2 : 0.4093734644841744<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Feature fraction : 0.7657601467713301<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Early Stopping : 76
-+ **Projection of Hyperparameter Space (Constructed during Bayesian HyperParameter Search) onto various axes -**
++ **Validation and Out-of-Fold Prediction generation Scheme -**
+<p align="center">
+  <img width="600" height="200" src="https://github.com/PRATEEKKUMARAGNIHOTRI/CMS-trigger/blob/master/images/validation_scheme.png">
+</p>
++ **Projections of Hyperparameter Space (constructed during Bayesian HyperParameter Search) onto various axes -**
 <p align="right">
   <img src="https://github.com/PRATEEKKUMARAGNIHOTRI/CMS-trigger/blob/master/images/LightGBM-SearchSpace-Projections.png">
 </p>
