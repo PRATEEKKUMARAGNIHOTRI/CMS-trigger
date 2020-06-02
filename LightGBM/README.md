@@ -19,6 +19,3 @@
 <p align="right">
   <img src="https://github.com/PRATEEKKUMARAGNIHOTRI/CMS-trigger/blob/master/images/LightGBM-SearchSpace-Projections.png">
 </p>
-<p align="center">
-  <img width="600" height="200" src="https://github.com/PRATEEKKUMARAGNIHOTRI/CMS-trigger/blob/master/images/validation_scheme.png">
-</p>
